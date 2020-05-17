@@ -1,0 +1,10 @@
+
+.env
+
+.firstRunLock
+
+.idea/
+
+BrowserData/
+
+node_modules/
