@@ -1,0 +1,16 @@
+{
+  "name": "kingdomlikes-bot",
+  "version": "1.0.0",
+  "description": "a bot that automate the task of eraning points in kindom likes",
+  "main": "src/index.js",
+  "author": "shashi srinath",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "moment": "^2.25.3",
+    "puppeteer": "^3.0.4"
+  }
+}

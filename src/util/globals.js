@@ -1,0 +1,3 @@
+
+let noOfPageFollows = 0;
+
